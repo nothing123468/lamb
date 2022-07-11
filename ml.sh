@@ -14,5 +14,5 @@ do
   sleep 5
   killall php
   echo "Kill $x times"
-  sleep 120
+  sleep 30
 done
